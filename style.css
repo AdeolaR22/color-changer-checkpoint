@@ -1,0 +1,31 @@
+
+/* Style the whole webpage */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+}
+
+/* Style the main container */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style the colour box */
+#color-box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* Style the button */
+#change-color-btn {
+    padding: 12px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
